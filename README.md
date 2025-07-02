@@ -2,8 +2,9 @@
 ## 已更
 
 - AI Infra cpp基础
+- 量化基础
 
 ## 待更新
 
-- 量化基础
 - Docker基础
+- Cuda基础
