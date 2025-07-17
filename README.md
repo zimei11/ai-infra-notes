@@ -82,13 +82,17 @@
 
 ## 相关技术博客
 
-| 📖 类别 | 📖 标题                                                       | 📖 作者                                                       |
-| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 量化   | [目前针对大模型进行量化的方法有哪些？ - 知乎](https://www.zhihu.com/question/627484732/answer/3261671478) | @吃果冻不吐果冻皮                                            |
-| 量化   | [【模型量化-上】一个Excel说清楚核心公式_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CVLAzNEzh/?spm_id_from=333.1387.favlist.content.click&vd_source=ac53754f6533097757863a1d248f5406) | @[费曼学徒冬瓜](https://space.bilibili.com/367678065/?spm_id_from=333.788.upinfo.detail.click) |
-| 量化   | [[LLMs inference\] quantization 量化整体介绍（bitsandbytes、GPTQ、GGUF、AWQ）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FH4y1c73W/?spm_id_from=333.337.search-card.all.click&vd_source=ac53754f6533097757863a1d248f5406) | @[五道口纳什](https://space.bilibili.com/59807853/?spm_id_from=333.788.upinfo.detail.click) |
-| 量化   | [目前针对大模型进行量化的方法有哪些？ - 知乎](https://www.zhihu.com/question/627484732/answer/13816157360) | @不归牛顿管的熊猫                                            |
-|        | 待更新 ...                                                   |                                                              |
+| 📖 类别   | 📖 标题                                                       | 📖 作者                                                       | 📖 备注                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
+| 量化     | [目前针对大模型进行量化的方法有哪些？ - 知乎](https://www.zhihu.com/question/627484732/answer/3261671478) | @吃果冻不吐果冻皮                                            | 量化全家桶                     |
+| 量化     | [【模型量化-上】一个Excel说清楚核心公式_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CVLAzNEzh/?spm_id_from=333.1387.favlist.content.click&vd_source=ac53754f6533097757863a1d248f5406) | @[费曼学徒冬瓜](https://space.bilibili.com/367678065/?spm_id_from=333.788.upinfo.detail.click) |                                |
+| 量化     | [[LLMs inference\] quantization 量化整体介绍（bitsandbytes、GPTQ、GGUF、AWQ）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FH4y1c73W/?spm_id_from=333.337.search-card.all.click&vd_source=ac53754f6533097757863a1d248f5406) | @[五道口纳什](https://space.bilibili.com/59807853/?spm_id_from=333.788.upinfo.detail.click) |                                |
+| 量化     | [目前针对大模型进行量化的方法有哪些？ - 知乎](https://www.zhihu.com/question/627484732/answer/13816157360) | @不归牛顿管的熊猫                                            |                                |
+| GPU基础  | [NVidia GPU指令集架构-前言 - 知乎](https://zhuanlan.zhihu.com/p/686198447) | @reed                                                        | 这部分难度较大(base not easy)  |
+| GPU基础  | [NVidia GPU指令集架构-寄存器 - 知乎](https://zhuanlan.zhihu.com/p/688616037) | @reed                                                        |                                |
+| GPU基础  | [NVidia GPU指令集架构-Load和Cache - 知乎](https://zhuanlan.zhihu.com/p/692445145) | @reed                                                        |                                |
+| GPU基础  | [NVidia GPU指令集架构-浮点运算 - 知乎](https://zhuanlan.zhihu.com/p/695667044) | @reed                                                        |                                |
+| CUDA基础 | [CUDA（一）：CUDA 编程基础 - 知乎](https://zhuanlan.zhihu.com/p/645330027) | @紫气东来                                                    | CUDA资料很多，认准一个学就行了 |
 
 ## Github 仓库
 
